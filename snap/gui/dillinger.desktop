@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Dillinger
+Icon=${SNAP}/meta/gui/icon.png
+Categories=Development;TextEditor;
+Exec=dillinger
+Terminal=false
